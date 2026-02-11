@@ -3,8 +3,8 @@
     "id": "ad74e9a009a77f7d",
     "username": "anon",
     "password": "1234",
-    "expiresAt": "2026-02-19",
-    "allowOffline": false 
+    "expiresAt": "2026-03-19",
+    "allowOffline": true 
   },
     {
     "id": "60c5bbc5a3965518",
